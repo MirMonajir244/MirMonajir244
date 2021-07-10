@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mir Monajir
 - 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...B.tech Cse specilization with Cyber Security and Big data.
+- 🌱 I’m currently learning ...B.tech Cse specilization with Cyber Security and Devops
 - 💞️ I’m looking to collaborate on ...Any security related tools
 - 📫 How to reach me ...Jus Dm me on mirmonajir2017@gmail.com
 
