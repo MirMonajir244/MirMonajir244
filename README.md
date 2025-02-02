@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mir Monajir
-- 👀 3rd year B.tech CSE student Major with Cyber Security and DevOps
+- 👀 Holding B.Tech in Computer Science and Engineering degree 
 - 💞️ I’m looking to collaborate on ...Any API and security related tools
 - 📫 How to reach me ...Jus Dm me on mirmonajir2017@gmail.com
 - 💼 Golang Developer at CORIOLIS Technologies PVT ltd.
